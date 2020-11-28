@@ -8,4 +8,3 @@ SecondPage
 ![Screenshot (40)](https://user-images.githubusercontent.com/64455541/100498442-4782cd80-3188-11eb-9543-a8b90f794dc1.png)
 
 LastPAge When Game Over
-![Screenshot (39)](https://user-images.githubusercontent.com/64455541/100498502-9f213900-3188-11eb-879f-a55004cf6b1c.png)
